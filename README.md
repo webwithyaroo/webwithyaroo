@@ -1,5 +1,4 @@
-# 💻 Full Stack Developer | React, Next.js & TypeScript | UI/UX & Performance Optimization  
-
+# 💻 Rust Software Engineer | From Frontend to Systems | Sharing Rust, Backend & WASM dev journey 🚀
 ## 👋 About Me  
 Hi, I’m **Issa Soliu** — a **Full Stack Developer** passionate about creating **high-performance, user-focused, and visually stunning web applications**.  
 
