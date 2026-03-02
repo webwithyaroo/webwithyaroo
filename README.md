@@ -1,7 +1,7 @@
 # 💻 AI Engineer | Protecting SaaS Systems from LLM Exploits & AI Agent Threats | Secure AI Architecture
-## 👋 About Me  
 
-Hi, I’m Issa yaroo — a AI Engineer passionate about building high-performance AI systems, reliable backends, and next-gen Secure AI applications.
+
+Hi, I’m Issa yaroo — an AI Engineer passionate about building high-performance AI systems, reliable backends, and next-gen Secure AI applications.
 
 
 ## 🛠️ Tech Stack  
