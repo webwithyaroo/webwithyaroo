@@ -1,15 +1,8 @@
-# 💻 Rust Software Engineer | From Frontend to Systems | Sharing Rust, Backend & WASM dev journey 🚀
+# 💻 AI Engineer | Protecting SaaS Systems from LLM Exploits & AI Agent Threats | Secure AI Architecture
 ## 👋 About Me  
 
-Hi, I’m Issa Soliu — a Rust Software Engineer passionate about building high-performance systems, reliable backends, and next-gen WebAssembly applications.
+Hi, I’m Issa yaroo — a AI Engineer passionate about building high-performance AI systems, reliable backends, and next-gen Secure AI applications.
 
-🦀 Skilled in Rust (ownership, async, systems programming), with hands-on experience using Tokio, Axum, Serde, and WASM.
-💻 Former Frontend Developer with a strong foundation in React, Next.js, Tailwind CSS, and TypeScript — now merging that experience with Rust for full-stack power.
-⚡ I craft solutions that are safe, scalable, and blazing fast, from command-line tools to distributed backends and WebAssembly-powered apps.
-📚 Always exploring systems programming, concurrency, and modern backend architecture.
-🤝 Open to Rust engineering roles, OSS collaboration, and freelance opportunities worldwide.
-
----
 
 ## 🛠️ Tech Stack  
 
