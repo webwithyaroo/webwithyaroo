@@ -1,17 +1,7 @@
-&lt;!-- 
-  Professional GitHub Profile README
-  Designed for: Issa Yaroo | AI Engineer
-  Focus: Secure AI Architecture | LLM Security | SaaS Protection
---&gt;
-
-&lt;div align="center"&gt;
-
 # Issa Yaroo
 ### AI Engineer | Secure AI Architecture Specialist
 
 **Protecting SaaS Systems from LLM Exploits & AI Agent Threats**
-
-&lt;/div&gt;
 
 ---
 
@@ -60,31 +50,24 @@ AI Engineer specializing in **secure AI architecture** and **adversarial robustn
 
 ## GitHub Analytics
 
-&lt;div align="center"&gt;
 
 | Stats | Languages |
 |-------|-----------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=webwithyaroo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webwithyaroo&layout=compact&theme=github_dark&hide_border=true&langs_count=8) |
 
-&lt;/div&gt;
 
 ---
 
 ## Connect
 
-&lt;div align="center"&gt;
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://issa-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/issa-soliu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/webwithyaroo)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/webwithyaroo)
 
-&lt;/div&gt;
 
----
 
-&lt;div align="center"&gt;
+*"Security is not a feature, it's a foundation. - Build AI. Secure it first"*
 
-*"Security is not a feature, it's a foundation."*
 
-&lt;/div&gt;
