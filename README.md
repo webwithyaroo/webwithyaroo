@@ -68,7 +68,6 @@ AI Engineer specializing in **secure AI architecture** and **adversarial robustn
 
 
 
-
 *"Security is not a feature, it's a foundation. - Build AI. Secure it first"*
 
 
